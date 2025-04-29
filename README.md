@@ -123,10 +123,10 @@ The backend includes a `seed.py` script to load test users and tasks for demo an
 ## Samples
 
 ### Home Page
-![Home Page](./Samples/Home.png)
+![Dashboard](./samples/dashboard.png)
 
 ### Sign In
-![Sign In](./Samples/signin.png)
+![Log In](./samples/login.png)
 
 ### Register
-![Register](./Samples/register.png)
+![Register](./samples/register.png)
